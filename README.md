@@ -4,3 +4,4 @@ The captive portal code above works...sort of...it will create an Access point, 
 The issue is that the client is not redirected to differnet WiFi access point. This code is also supposed to demonstate how one can steal credentials and display them on the TFT or Serial monitor but I coudln;t get it working.
 
 ![IMG_5308](https://user-images.githubusercontent.com/5065324/225166733-a9fa3fbc-9be7-45d1-8dc9-f244a6211c19.jpeg)
+![Untitled](https://user-images.githubusercontent.com/5065324/225166888-3f93db34-b2c2-4ff6-ae8d-09dc50b41a2a.jpg)
